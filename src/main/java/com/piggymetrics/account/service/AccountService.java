@@ -1,7 +1,7 @@
-package com.piggymetrics.service;
+package com.piggymetrics.account.service;
 
-import com.piggymetrics.domain.Account;
-import com.piggymetrics.domain.User;
+import com.piggymetrics.account.domain.Account;
+import com.piggymetrics.account.domain.User;
 
 public interface AccountService {
 

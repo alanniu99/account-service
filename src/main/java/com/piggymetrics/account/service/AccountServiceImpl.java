@@ -1,12 +1,12 @@
-package com.piggymetrics.service;
+package com.piggymetrics.account.service;
 
-import com.piggymetrics.client.AuthServiceClient;
-import com.piggymetrics.client.StatisticsServiceClient;
-import com.piggymetrics.domain.Account;
-import com.piggymetrics.domain.Currency;
-import com.piggymetrics.domain.Saving;
-import com.piggymetrics.domain.User;
-import com.piggymetrics.repository.AccountRepository;
+import com.piggymetrics.account.client.AuthServiceClient;
+import com.piggymetrics.account.client.StatisticsServiceClient;
+import com.piggymetrics.account.domain.Account;
+import com.piggymetrics.account.domain.Currency;
+import com.piggymetrics.account.domain.Saving;
+import com.piggymetrics.account.domain.User;
+import com.piggymetrics.account.repository.AccountRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

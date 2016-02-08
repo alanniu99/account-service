@@ -1,4 +1,4 @@
-package com.piggymetrics;
+package com.piggymetrics.account;
 
 import feign.RequestInterceptor;
 import org.springframework.boot.SpringApplication;

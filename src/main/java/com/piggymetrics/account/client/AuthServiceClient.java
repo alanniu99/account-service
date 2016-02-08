@@ -1,6 +1,6 @@
-package com.piggymetrics.client;
+package com.piggymetrics.account.client;
 
-import com.piggymetrics.domain.User;
+import com.piggymetrics.account.domain.User;
 import org.springframework.cloud.netflix.feign.FeignClient;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

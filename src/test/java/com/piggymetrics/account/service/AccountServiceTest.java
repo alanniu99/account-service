@@ -1,9 +1,9 @@
-package com.piggymetrics.service;
+package com.piggymetrics.account.service;
 
-import com.piggymetrics.client.AuthServiceClient;
-import com.piggymetrics.client.StatisticsServiceClient;
-import com.piggymetrics.domain.*;
-import com.piggymetrics.repository.AccountRepository;
+import com.piggymetrics.account.client.AuthServiceClient;
+import com.piggymetrics.account.client.StatisticsServiceClient;
+import com.piggymetrics.account.domain.*;
+import com.piggymetrics.account.repository.AccountRepository;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.InjectMocks;

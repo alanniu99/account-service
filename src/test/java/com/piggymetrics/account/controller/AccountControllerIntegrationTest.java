@@ -1,9 +1,9 @@
-package com.piggymetrics.controller;
+package com.piggymetrics.account.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.piggymetrics.AccountApplication;
-import com.piggymetrics.domain.*;
-import com.piggymetrics.service.AccountService;
+import com.piggymetrics.account.AccountApplication;
+import com.piggymetrics.account.domain.*;
+import com.piggymetrics.account.service.AccountService;
 import com.sun.security.auth.UserPrincipal;
 import org.junit.Before;
 import org.junit.Test;

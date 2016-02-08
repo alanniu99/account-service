@@ -1,7 +1,7 @@
-package com.piggymetrics.repository;
+package com.piggymetrics.account.repository;
 
-import com.piggymetrics.AccountApplication;
-import com.piggymetrics.domain.*;
+import com.piggymetrics.account.AccountApplication;
+import com.piggymetrics.account.domain.*;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
